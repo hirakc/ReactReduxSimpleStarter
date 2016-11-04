@@ -1,4 +1,4 @@
-# ReactReduxSimpleStarter
+# React Redux Simple Starter
 
 A very basic boilerplate to get started with React and Redux using ES6.
 For more advance starter kits you may look into [React Redux Universal HOT Example](https://github.com/erikras/react-redux-universal-hot-example)
@@ -7,8 +7,8 @@ For more advance starter kits you may look into [React Redux Universal HOT Examp
 
 There are two methods for getting started with this repo.
 
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
+####Clone the repository from GIT#####
+Checkout this repo, install dependencies, then start the npm process with the following:
 
 ```
 	> git clone git@github.com:hirakme/ReactReduxSimpleStarter.git
@@ -17,7 +17,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 	> npm start
 ```
 
-####Not Familiar with Git?#####
+####Download the source code#####
 Click [here](https://github.com/hirakme/ReactReduxSimpleStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
