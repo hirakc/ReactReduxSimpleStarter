@@ -1,6 +1,6 @@
 # React Redux Simple Starter
 
-A very basic boilerplate to get started with React and Redux using ES6. This one is inspired from https://github.com/StephenGrider/ReduxSimpleStarter but I wanted to make it a little more advanced.
+A very basic boilerplate to get started with React and Redux using ES6. This one is inspired from [Stephen Grider's Redux Simple Starter](https://github.com/StephenGrider/ReduxSimpleStarter) but I wanted to make it a little more advanced.
 For more advance starter kits you may look into [React Redux Universal HOT Example](https://github.com/erikras/react-redux-universal-hot-example)
 
 ###Getting Started###
