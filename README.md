@@ -1,3 +1,8 @@
+----
+## Version 1.0
+----
+
+
 # React Redux Simple Starter
 
 A very basic boilerplate to get started with React and Redux using ES6.
